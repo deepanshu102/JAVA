@@ -1,2 +1,5 @@
 # JAVA
 PRACTICAL + College PRACTICAL
+
+JDK 1.8
+
